@@ -1,1 +1,2 @@
 # C-Memory-Management
+This was a project in my Operating Systems course (CMPSC 473) at Penn State in Fall 2021. THe code was provided to us and we had to write mm.c to implement the malloc, realloc, calloc, and free functions, as well as an initialization function and a consistency checker function. Test files were provided that would test the memory allocator on correctness and spacial & temporal efficiency. I was able to complete the project as desired and scored full marks on the tests.
